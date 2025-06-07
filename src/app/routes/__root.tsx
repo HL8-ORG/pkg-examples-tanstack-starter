@@ -9,7 +9,7 @@ import {
   createRootRouteWithContext,
 } from "@tanstack/react-router";
 import type * as React from "react";
-import { Providers } from "../providers";
+import { Providers } from "@/_components/providers";
 import customCss from "../styles/custom.css?url";
 import appCss from "../styles/index.css?url";
 
